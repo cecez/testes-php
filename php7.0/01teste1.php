@@ -1,8 +1,8 @@
 <?php
 
-#declaração de tipos escalares
+#declaraÃ§Ã£o de tipos escalares
 
-// Forçando modo "strict" para parâmetros e retornos de funções
+// ForÃ§ando modo "strict" para parÃ¢metros e retornos de funÃ§Ãµes
 declare(strict_types=1);
 
 function somaDeInteiros(int $a, int $b) : int {
