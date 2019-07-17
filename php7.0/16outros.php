@@ -12,6 +12,4 @@ class foo { static $bar = 'baz'; }
 
 var_dump('foo'::$bar);
 
-// resultado
-
-// baz
+// resultado: baz
